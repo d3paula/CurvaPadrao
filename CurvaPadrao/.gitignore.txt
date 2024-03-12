@@ -1,0 +1,4 @@
+# Ignore directories named "build"
+/venv
+/__pycache__
+/.vscode
