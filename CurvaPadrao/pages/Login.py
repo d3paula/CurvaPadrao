@@ -18,8 +18,8 @@ class FirebaseManager:
                 "apiKey": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
                 "authDomain": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
                 "databaseURL": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-                "projectId": "curvapadrao",
-                "storageBucket": "curvapadrao.appspot.com",
+                "projectId": "AAAAAAAAAAA",
+                "storageBucket": "AAAAAAAAAAAAAA.appspot.com",
                 "messagingSenderId": "AAAAAAAAAAAAAAAAAAAAA",
                 "appId": "AAAAAAAAAAAAAAAAAAAAAAAAAA",
                 "measurementId": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
