@@ -15,8 +15,8 @@ class FirebaseDBManager:
         # Authorization Login and Signup
         #
         self.cred = credentials.Certificate('serviceaccount.json')
-        self.firebase_admin=firebase_admin.initialize_app(self.cred,{"databaseURL":"https://curvapadrao-default-rtdb.firebaseio.com/"})
-        self.firebase_apiKey ="AIzaSyBpv1Lbp89ldWGjrulwK9p2mxYIBsMcMQc"
+        self.firebase_admin=firebase_admin.initialize_app(self.cred,{"databaseURL":"https://zzzzzzz-default-rtdb.firebaseio.com/"})
+        self.firebase_apiKey ="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 
 class Signup(Container):
     def __init__(self, page: Page):
