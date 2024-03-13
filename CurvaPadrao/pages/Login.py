@@ -15,16 +15,16 @@ class FirebaseManager:
         # Authorization Login and Signup
         #
         self.firebaseConfig= {
-                "apiKey": "AIzaSyBpv1Lbp89ldWGjrulwK9p2mxYIBsMcMQc",
-                "authDomain": "curvapadrao.firebaseapp.com",
-                "databaseURL": "https://curvapadrao-default-rtdb.firebaseio.com",
+                "apiKey": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "authDomain": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "databaseURL": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
                 "projectId": "curvapadrao",
                 "storageBucket": "curvapadrao.appspot.com",
-                "messagingSenderId": "35872367520",
-                "appId": "1:35872367520:web:55cff38319c7a7fff0bac5",
-                "measurementId": "G-5H7BJW8SYT"
+                "messagingSenderId": "AAAAAAAAAAAAAAAAAAAAA",
+                "appId": "AAAAAAAAAAAAAAAAAAAAAAAAAA",
+                "measurementId": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
             }
-        self.firebase_apiKey ="AIzaSyBpv1Lbp89ldWGjrulwK9p2mxYIBsMcMQc"
+        self.firebase_apiKey ="AAAAAAAAAAAAAAAAAAAAAAAAAAAA"
         self.firebase_app=pyrebase.initialize_app(self.firebaseConfig)
         self.auth=self.firebase_app.auth()
 
