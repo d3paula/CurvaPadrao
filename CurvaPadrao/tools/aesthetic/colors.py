@@ -1,0 +1,12 @@
+FWG = '#97b4ff'
+FG = '#3450a1'
+PINK = '#eb06ff'
+GREEN = '#03DAC5'
+DGREEN = '#354A21'
+BG = '#4e73df'
+WHITE = '#FFFFFF'
+GRAY = '#858796'
+BLACK = '#000000'
+TABLE_HEADER="#081d33"
+SEARCH = "#ebebeb"
+PAGE_MAIN="#fdfdfd"
